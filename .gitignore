@@ -1,2 +1,39 @@
-sharew8_rel8-0-0_ALL_datasets_stata
-data
+# ===========================================
+# DATA FILES - EXCLUDED DUE TO SHARE LICENSE
+# ===========================================
+# SHARE data requires registration and approval at share-project.org
+# Data cannot be redistributed per SHARE data usage agreement
+# To reproduce: register at share-project.org and download required modules
+
+data/
+sharew8_rel8-0-0_ALL_datasets_stata/
+
+# ===========================================
+# JUPYTER
+# ===========================================
+.ipynb_checkpoints/
+
+# ===========================================
+# PYTHON
+# ===========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+
+# ===========================================
+# IDE
+# ===========================================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ===========================================
+# OS
+# ===========================================
+.DS_Store
+Thumbs.db

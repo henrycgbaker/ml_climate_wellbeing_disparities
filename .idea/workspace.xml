@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="trying SMOTE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neural_net.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_net_classweights.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neural_net_classweights.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,8 @@
       <workItem from="1716389904729" duration="1246000" />
       <workItem from="1716391676826" duration="768000" />
       <workItem from="1716392764354" duration="125000" />
-      <workItem from="1716478013710" duration="18491000" />
+      <workItem from="1716478013710" duration="19997000" />
+      <workItem from="1720087552422" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <option name="closed" value="true" />
@@ -171,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716558549569</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="trying SMOTE">
+      <option name="closed" value="true" />
+      <created>1716559930082</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716559930082</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
